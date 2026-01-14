@@ -1,3 +1,3 @@
 # project-1
-This is my first GitHub repository
-for learning verdion control
+Hi im arastu acharya this is my girst GitHub repository
+for learning version control
